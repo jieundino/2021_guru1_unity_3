@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: ddb9af0228d18434381d087c63e9ce1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startUI: {instanceID: 0}
+  - startPanel: {instanceID: 0}
+  - howToPlayPanel: {instanceID: 0}
+  - DeathUI: {instanceID: 0}
+  - inGameUI: {instanceID: 0}
+  - itemUI: {instanceID: 0}
+  - uniconCount: {instanceID: 0}
+  - potion: {instanceID: 0}
+  - potionCount: {instanceID: 0}
+  - doll: {instanceID: 0}
+  - dollcount: {instanceID: 0}
+  - playerHeart: {instanceID: 0}
+  - LoadingPanel: {instanceID: 0}
+  - PauseUI: {instanceID: 0}
+  - pauseButtonPanel: {instanceID: 0}
+  - howToPlayPanel_PauseUI: {instanceID: 0}
+  - talkPanel: {instanceID: 0}
+  - talkText: {instanceID: 0}
+  - boss: {instanceID: 0}
+  - NPC: {instanceID: 0}
+  - EndUI: {instanceID: 0}
+  - EndPanel: {instanceID: 0}
+  - audio_die: {instanceID: 0}
+  - audio_one: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
